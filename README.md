@@ -4,8 +4,6 @@ A live market arbitrage tool for Escape from Tarkov. Fetches real-time pricing d
 
 **[Live Demo →](https://yourusername.github.io/tarkov-arbitrage)**
 
-![screenshot](screenshot.png)
-
 ---
 
 ## What it does
