@@ -28,7 +28,7 @@ Just open the [live demo](https://lichtspitze.github.io/EFT-arbitrage-calc). Set
 To run locally, clone the repo and open `index.html` in a browser — no server needed.
 
 ```bash
-git clone https://github.com/yourusername/tarkov-arbitrage.git
+git clone https://github.com/lichtspitze/tarkov-arbitrage.git
 cd tarkov-arbitrage
 open index.html
 ```
