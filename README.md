@@ -2,7 +2,7 @@
 
 A live market arbitrage tool for Escape from Tarkov. Fetches real-time pricing data and calculates profit opportunities across crafting recipes and barter trades — accounting for flea market fees, trader loyalty levels, and price volatility.
 
-**[Live Demo →](https://yourusername.github.io/tarkov-arbitrage)**
+**[Live Demo →](https://lichtspitze.github.io/EFT-arbitrage-calc)**
 
 ---
 
@@ -23,7 +23,7 @@ A live market arbitrage tool for Escape from Tarkov. Fetches real-time pricing d
 
 ## Usage
 
-Just open the [live demo](https://yourusername.github.io/tarkov-arbitrage). Set your trader loyalty levels in the panel at the top, then browse or filter the results. Hit **Recalculate** to refresh prices at any time.
+Just open the [live demo](https://lichtspitze.github.io/EFT-arbitrage-calc). Set your trader loyalty levels in the panel at the top, then browse or filter the results. Hit **Recalculate** to refresh prices at any time.
 
 To run locally, clone the repo and open `index.html` in a browser — no server needed.
 
