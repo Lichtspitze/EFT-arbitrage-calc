@@ -29,6 +29,7 @@ Just open the [live demo](https://lichtspitze.github.io/EFT-arbitrage-calc/). Se
 
 This Tool does not account for un/locked barters (yet).
 This tool also does not account for itesm that cant be sold on the flee market (yet).
+The tool will be adjusted for long term price histories that account for quest/event trends. 
 
 Small disclaimer: It might be more efficient to just play the game to make profit.
 
